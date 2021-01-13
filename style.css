@@ -1,0 +1,85 @@
+h1 {
+  color: white;
+  margin: 50px 100px;
+  font-family: Mitr;
+  font-size: 150px;
+}
+
+.top-heading{
+padding: 10px;
+text-align: center;
+background-color: #333333;
+color: #ffffff;
+font-size: 12px;
+}
+
+.links{
+  padding: 0 0 2rem 0;
+  font-family: Montserrat;
+}
+
+.header{
+  text-align: center;
+  padding: 20px 20px;
+  background-color: #ffffff;
+  font-family: mitr;
+}
+
+.content{
+  padding: 16px;
+}
+
+.sticky{
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.title-section{
+  background-color: #333333;
+}
+
+.Logo{
+   height: 200px;
+   padding-left: 150px;
+   padding-top: 50px;
+}
+
+.title-section{
+  margin: 0;
+  padding: 100px 50px;
+}
+
+.collection-section{
+  margin: 0;
+  padding: 100px 50px;
+  background-color: #FFFFFF;
+}
+
+.pricing-section{
+  margin: 0;
+  padding: 100px 50px;
+  background-color: #e1f4f3;
+}
+
+.testimonial-section{
+  margin: 0;
+  padding: 100px 50px;
+  background-color: #ffffff;
+}
+
+.footer-section{
+  margin: 0;
+  padding: 50px 20px;
+  background-color: #706c61;
+  color: #ffffff;
+  text-align: center;
+}
+
+.socialmedia-icons{
+  margin: 20px 10px;
+}
+
+#title {
+  background-attachment: fixed;
+}

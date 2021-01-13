@@ -5,10 +5,14 @@ h1 {
   font-size: 150px;
 }
 
+h2{
+  text-align: center;
+}
+
 .top-heading{
 padding: 10px;
 text-align: center;
-background-color: #333333;
+background-color: #222831;
 color: #ffffff;
 font-size: 12px;
 }
@@ -21,7 +25,7 @@ font-size: 12px;
 .header{
   text-align: center;
   padding: 20px 20px;
-  background-color: #ffffff;
+  background-color: #eeeeee;
   font-family: mitr;
 }
 
@@ -36,13 +40,11 @@ font-size: 12px;
 }
 
 .title-section{
-  background-color: #333333;
+  background-color: #222831;
 }
 
 .Logo{
-   height: 200px;
-   padding-left: 150px;
-   padding-top: 50px;
+   height: 500px;
 }
 
 .title-section{
@@ -53,19 +55,19 @@ font-size: 12px;
 .collection-section{
   margin: 0;
   padding: 100px 50px;
-  background-color: #FFFFFF;
+  background-color: #eeeeee;
 }
 
 .pricing-section{
   margin: 0;
-  padding: 100px 50px;
-  background-color: #e1f4f3;
+  padding: 200px 50px;
+  background-color: #a4b494;
 }
 
 .testimonial-section{
   margin: 0;
-  padding: 100px 50px;
-  background-color: #ffffff;
+  padding: 200px 50px;
+  background-color: #eeeeee;
 }
 
 .footer-section{

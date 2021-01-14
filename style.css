@@ -7,10 +7,16 @@ h1 {
 
 h2{
   text-align: center;
+  color: #706c61;
+}
+
+h3{
+  text-align: center;
+  color: #222831;
 }
 
 .top-heading{
-padding: 10px;
+padding: 5px;
 text-align: center;
 background-color: #222831;
 color: #ffffff;
@@ -18,7 +24,7 @@ font-size: 12px;
 }
 
 .links{
-  padding: 0 0 2rem 0;
+  padding: 0 0 1rem 0;
   font-family: Montserrat;
 }
 
@@ -27,6 +33,12 @@ font-size: 12px;
   padding: 20px 20px;
   background-color: #eeeeee;
   font-family: mitr;
+}
+
+#backdrop{
+  background: url(images/pond-water.jpg);
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .content{
@@ -39,12 +51,11 @@ font-size: 12px;
   width: 100%;
 }
 
-.title-section{
-  background-color: #222831;
-}
-
 .Logo{
-   height: 500px;
+   height: 300px;
+   margin-left: 50px;
+   margin-top: 30px;
+   margin-bottom: 30px;
 }
 
 .title-section{
@@ -101,8 +112,4 @@ font-size: 12px;
 
 .socialmedia-icons{
   margin: 20px 10px;
-}
-
-#title {
-  background-attachment: fixed;
 }

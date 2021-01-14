@@ -52,11 +52,18 @@ font-size: 12px;
   padding: 100px 50px;
 }
 
+
 .collection-section{
   margin: 0;
   padding: 100px 50px;
   background-color: #eeeeee;
 }
+
+.bottle-img{
+  margin: 16px 16px;
+  height: 300px;
+}
+
 
 .pricing-section{
   margin: 0;
@@ -64,10 +71,24 @@ font-size: 12px;
   background-color: #a4b494;
 }
 
-.testimonial-section{
-  margin: 0;
-  padding: 200px 50px;
+
+/* testimonials section */
+
+#testimonials {
+  padding: 7% 15%;
   background-color: #eeeeee;
+  text-align: center;
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pet-image {
+  width: 15%;
+  border-radius: 100%;
+  margin: 20px;
 }
 
 .footer-section{

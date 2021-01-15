@@ -1,26 +1,22 @@
-h1 {
-  color: white;
-  margin: 50px 100px;
-  font-family: Mitr;
-  font-size: 150px;
-}
-
-h2{
+h1{
   text-align: center;
   color: #706c61;
 }
 
-h3{
+h2{
   text-align: center;
-  color: #222831;
+}
+
+h3{
+  font-size: 16px;
 }
 
 .top-heading{
-padding: 5px;
-text-align: center;
-background-color: #222831;
-color: #ffffff;
-font-size: 12px;
+  padding: 5px;
+  text-align: center;
+  background-color: #222831;
+  color: #ffffff;
+  font-size: 12px;
 }
 
 .links{
@@ -36,7 +32,7 @@ font-size: 12px;
 }
 
 #backdrop{
-  background: url(images/pond-water.jpg);
+  background: url(images/mountain-peaks.jpg);
   background-attachment: fixed;
   background-size: cover;
 }
@@ -54,8 +50,8 @@ font-size: 12px;
 .Logo{
    height: 300px;
    margin-left: 50px;
-   margin-top: 30px;
-   margin-bottom: 30px;
+   margin-top: 50px;
+   margin-bottom: 50px;
 }
 
 .title-section{
@@ -63,25 +59,49 @@ font-size: 12px;
   padding: 100px 50px;
 }
 
+/* collection section */
 
 .collection-section{
   margin: 0;
   padding: 100px 50px;
-  background-color: #eeeeee;
+  background-color: #f5f5f5;
 }
 
 .bottle-img{
   margin: 16px 16px;
   height: 300px;
+  border: 10px solid #ffffff;
 }
 
+/* features section */
 
-.pricing-section{
-  margin: 0;
-  padding: 200px 50px;
+.icon-img{
+height: 100px;
+}
+
+.features-section{
   background-color: #a4b494;
+  padding: 50px 50px;
 }
 
+.features-row {
+  width: 50%;
+  margin: 75px auto 75px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.temperature {
+  width: 10%;
+  float: left;
+  margin-right: 30px;
+}
+
+.environment {
+  width: 10%;
+  float: right;
+  margin-left: 30px;
+}
 
 /* testimonials section */
 
